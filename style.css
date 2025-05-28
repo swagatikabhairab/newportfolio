@@ -263,7 +263,7 @@ nav ul li a.active{
     }
     nav ul li{
         padding-right:12px;
-        text-align: right;
+        text-align: center;
     }
     nav ul li a:hover{
         color: #7cf03d;
